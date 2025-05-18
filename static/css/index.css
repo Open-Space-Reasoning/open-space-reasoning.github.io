@@ -73,10 +73,12 @@ body {
   }
 }
 
+
 .compact-table caption {
   text-align: left;
   caption-side: top;
   padding-left: 0;
+  line-height: 1.4; /* 可以调整为 1.4 ~ 2 之间的值，根据你想要的行距 */
 }
 
 
