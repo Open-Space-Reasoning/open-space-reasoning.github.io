@@ -80,6 +80,98 @@ body {
 }
 
 
+/* 这里每一列一个颜色，你可以自己调色 */
+/* .col-diff          { background: #f6f8fa !important; }
+.col-model         { background: #e8f6fa !important; }
+.col-size          { background: #fffbe7 !important; }
+.col-avg           { background: #eafaf0 !important; }
+.col-short-avg     { background: #fdf1fa !important; }
+.col-short-temp    { background: #f0f3fd !important; }
+.col-short-spatial { background: #e0fcf7 !important; }
+.col-short-intent  { background: #f9f5d7 !important; }
+.col-medium-avg    { background: #ecf0f1 !important; }
+.col-medium-temp   { background: #e5eafc !important; }
+.col-medium-spatial{ background: #e7f7ee !important; }
+.col-medium-intent { background: #fcf6e4 !important; }
+.col-long-avg      { background: #e8f7ff !important; }
+.col-long-temp     { background: #f0eafc !important; }
+.col-long-spatial  { background: #fcefe8 !important; }
+.col-long-intent   { background: #f5eefa !important; } */
+
+/* 粉紫渐变（由浅到深） */
+/* .col-diff          { background: #fce4ec !important; }   very light pink */
+/* .col-model         { background: #f8bbd0 !important; }
+.col-size          { background: #f48fb1 !important; }
+.col-avg           { background: #f06292 !important; }
+.col-short-avg     { background: #ec407a !important; } */
+/* .col-short-temp    { background: #e040fb !important; }   violet/purple */
+/* .col-short-spatial { background: #ab47bc !important; }
+.col-short-intent  { background: #8e24aa !important; }
+.col-medium-avg    { background: #ba68c8 !important; }
+.col-medium-temp   { background: #ce93d8 !important; }
+.col-medium-spatial{ background: #d1c4e9 !important; }
+.col-medium-intent { background: #b39ddb !important; }
+.col-long-avg      { background: #9575cd !important; }
+.col-long-temp     { background: #7e57c2 !important; }
+.col-long-spatial  { background: #673ab7 !important; } */
+/* .col-long-intent   { background: #512da8 !important; }   darkest purple */
+
+/* very light pink */
+/* .col-diff          { background: #fce4ec !important; }   
+.col-model         { background: #f8bbd0 !important; }
+.col-size          { background: #f3c6e7 !important; }
+.col-avg           { background: #e9bdfc !important; }
+.col-short-avg     { background: #e1c4f7 !important; }
+.col-short-temp    { background: #dbcaf7 !important; }
+.col-short-spatial { background: #d6d1f5 !important; }
+.col-short-intent  { background: #d2d7fa !important; }
+.col-medium-avg    { background: #cecffa !important; }
+.col-medium-temp   { background: #cbc5f6 !important; }
+.col-medium-spatial{ background: #c5c0ed !important; }
+.col-medium-intent { background: #bfc3eb !important; }
+.col-long-avg      { background: #bab7e7 !important; }
+.col-long-temp     { background: #b0ace5 !important; }
+.col-long-spatial  { background: #ada7e3 !important; }
+.col-long-intent   { background: #c5bbee !important; }    */
+
+/* 粉红到浅蓝色淡色系渐变，每列不同 */
+/* .col-diff          { background: #fce4ec !important; } 
+.col-model         { background: #f8bbd0 !important; }  
+.col-size          { background: #ecd6f9 !important; }  
+.col-avg           { background: #e1d7fa !important; }  
+.col-short-avg     { background: #d6e4fa !important; }  
+.col-short-temp    { background: #cee6fa !important; }  
+.col-short-spatial { background: #c7eafa !important; }  
+.col-short-intent  { background: #c3effa !important; }
+.col-medium-avg    { background: #bde5f6 !important; }
+.col-medium-temp   { background: #b1e2f7 !important; }
+.col-medium-spatial{ background: #a6ddf7 !important; }
+.col-medium-intent { background: #9ddaf7 !important; }
+.col-long-avg      { background: #8fd2f6 !important; }
+.col-long-temp     { background: #7fcaf6 !important; }
+.col-long-spatial  { background: #70c2f4 !important; }
+.col-long-intent   { background: #61bbf4 !important; }   */
+
+
+.col-diff          { background: #e3f3fd !important; }  /* very light blue */
+.col-model         { background: #d0ebfa !important; }  /* light blue */
+.col-size          { background: #dce8fa !important; }  /* blue-lavender */
+.col-avg           { background: #e6e6fa !important; }  /* lavender */
+.col-short-avg     { background: #f0e6fa !important; }  /* 淡紫 */
+.col-short-temp    { background: #f7e6fa !important; }  /* 淡紫偏粉 */
+.col-short-spatial { background: #fae6f4 !important; }  /* 粉紫 */
+.col-short-intent  { background: #fae6ec !important; }  /* very light pink */
+.col-medium-avg    { background: #fae6e6 !important; }
+.col-medium-temp   { background: #fae6eb !important; }
+.col-medium-spatial{ background: #fae6f2 !important; }
+.col-medium-intent { background: #fae6f8 !important; }
+.col-long-avg      { background: #fbe6fa !important; }
+.col-long-temp     { background: #fde6fa !important; }
+.col-long-spatial  { background: #fee6fa !important; }
+.col-long-intent   { background: #ffe6fa !important; }  /* very light pink */
+
+
+
 .model-gold { color: #d4af37; font-weight: bold; }
 
 
