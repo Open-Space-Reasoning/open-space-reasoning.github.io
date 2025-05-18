@@ -76,6 +76,30 @@ body {
 .model-gold { color: #d4af37; font-weight: bold; }
 
 
+.cell-highlight {
+  background-color: #ffeb3b;  /* 亮黄色 */
+}
+.cell-green {
+  background-color: #b2fab4;  /* 亮绿色 */
+}
+.cell-red {
+  background-color: #ffcdd2;  /* 淡红色 */
+}
+
+.cell-darkgray {
+  background-color: #444444;  /* 深灰色 */
+  color: #fff;                /* 文字用白色，易读 */
+}
+
+.cell-lightgray {
+  background-color: #eeeeee !important;  /* 浅灰色 */
+  color: #222;                /* 文字深色，更清楚 */
+}
+
+
+
+
+
 
 .video-carousel {
   display: flex;
